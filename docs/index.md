@@ -28,8 +28,7 @@ __Brigham Young University - Idaho__, Rexburg, ID
 
 ## Work Experience
 
-### CFO
-
+**CFO**
 `January 2021 - April 2021`
 __Bel Arome Candles__ | Rexburg, ID
 
@@ -37,8 +36,8 @@ __Bel Arome Candles__ | Rexburg, ID
 - Balanced the books, completed bank reconciliation, and managed the budget
 - Helped marketing increase website purchases by 80% after a dip
 
-### Marketing Consultant
 
+**Marketing Consultant**
 `April 2020 - August 2020`
 __Independent Contractor__
 
@@ -47,8 +46,7 @@ __Independent Contractor__
 - Designed outdoor signs that increased clients by 2x
 - Built company website and orchestrated SEO campaigns
 
-### Business Development Representative/Digital Marketing
-
+**Business Development Representative/Digital Marketing**
 `June 2019 - March 2020`
 __NP Accel__ | Lehi, UT
 
@@ -56,9 +54,7 @@ __NP Accel__ | Lehi, UT
 - Created new sales scripts for team  that increased sales by 20%
 - Trained in and frequently used Salesforce
 
-
-### Director of Talent
-
+**Director of Talent**
 `June 2019 - December 2019`
 __Jumping Turtle__ | Kaysville, UT
 
@@ -68,9 +64,7 @@ __Jumping Turtle__ | Kaysville, UT
 - Supervised team of 20 volunteers
 - Increased sponsorship by 15% by innovating proposals
 
-
-### Social Media Intern
-
+**Social Media Intern**
 `June 2014 - December 2015`
 __More Good Foundations__ | Orem, UT
 
