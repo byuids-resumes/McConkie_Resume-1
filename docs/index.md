@@ -31,7 +31,7 @@ __Brigham Young University - Idaho__, Rexburg, ID
 **CFO**
 
 `January 2021 - April 2021`
-__Bel Arome Candles__ | Rexburg, ID
+_Bel Arome Candles_ | Rexburg, ID
 
 - Started a company with 13 co-founders
 - Balanced the books, completed bank reconciliation, and managed the budget
@@ -41,7 +41,7 @@ __Bel Arome Candles__ | Rexburg, ID
 **Marketing Consultant**
 
 `April 2020 - August 2020`
-__Independent Contractor__
+_Independent Contractor_
 
 - Brought in $10,000+ in first month for start-up
 - Created and ran Google Ads with 7% CTR
@@ -51,7 +51,7 @@ __Independent Contractor__
 **Business Development Representative/Digital Marketing**
 
 `June 2019 - March 2020`
-__NP Accel__ | Lehi, UT
+_NP Accel_ | Lehi, UT
 
 - Ranked top 3 in KPI's and helped the team grow the company by 300%
 - Created new sales scripts for team  that increased sales by 20%
@@ -60,7 +60,7 @@ __NP Accel__ | Lehi, UT
 **Director of Talent**
 
 `June 2019 - December 2019`
-__Jumping Turtle__ | Kaysville, UT
+_Jumping Turtle_ | Kaysville, UT
 
 - Introduced marketing campaign that increased speaker reservations by 50%
 - Conducted 50 hours of market research 
@@ -71,7 +71,7 @@ __Jumping Turtle__ | Kaysville, UT
 **Social Media Intern**
 
 `June 2014 - December 2015`
-__More Good Foundations__ | Orem, UT
+_More Good Foundations_ | Orem, UT
 
 - Increased followers and engagement by 50% - 100% over 15 different social media accountss.
 
@@ -79,7 +79,7 @@ __More Good Foundations__ | Orem, UT
 ## Service and Work History
 
 `2016 - 2018`
-__Service Missionary__ | NYC & Long Island
+_Service Missionary_ | NYC & Long Island
 - Helped 1,000+ people make and reach personal goals
 - Increased volunteer performance by 25%
 
