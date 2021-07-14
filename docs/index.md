@@ -28,6 +28,14 @@ __Brigham Young University - Idaho__, Rexburg, ID
 
 ## Work Experience
 
+**Employer Relations**
+
+`March 2020 - March 2021`
+*BYU-Idaho Marketing Department* | Rexburg, ID
+
+- Created Python script to gather job details into a central database for students
+- Designed a department-wide course for students on resumes, interviews, and other professional skills.
+
 **CFO**
 
 `January 2021 - April 2021`
@@ -47,6 +55,7 @@ _Independent Contractor_
 - Created and ran Google Ads with 7% CTR
 - Designed outdoor signs that increased clients by 2x
 - Built company website and orchestrated SEO campaigns
+- Used Python to analyze Ad data and create Ads that were 50% more effective
 
 **Business Development Representative/Digital Marketing**
 
