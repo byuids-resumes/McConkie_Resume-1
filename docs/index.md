@@ -5,13 +5,6 @@ title: Michael McConkie's Resume
 # Michael McConkie
 A Marketer and Data Scientist
 
-|| | |
-| -- | --- | --- |
-| Marketing Strategy                  | Campaign Creation | Digital Marketing |
-| Market Research                     | Salesforce        | Self-starter      |
-| Microsoft Office (including Access) | Python and SQL    | Leadership        |
-
-
 <div id="webaddress">
 <a href="mailto:michael.mcconkie@outlook.com">michael.mcconkie@outlook.com</a>
 | <a href="hhttps://www.byui.edu/business-management/department-of-marketing">Marketing Program</a>
