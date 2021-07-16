@@ -1,6 +1,6 @@
 # md-resume
 
-To a web version of this resume, visit [https://mcc0nkie.github.io/McConkie_Resume/](https://mcc0nkie.github.io/McConkie_Resume/)
+To see a web version of this resume, visit [https://mcc0nkie.github.io/McConkie_Resume/](https://mcc0nkie.github.io/McConkie_Resume/)
 
 A resume maintained in plain text and rendered to HTML and PDF using CSS.
 
